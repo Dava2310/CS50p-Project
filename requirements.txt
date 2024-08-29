@@ -1,0 +1,3 @@
+PiP Libraries necessaries for this project:
+
+1. Pytest
